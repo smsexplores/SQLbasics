@@ -1,4 +1,4 @@
-
+/*Download the dataset which I have used from this link and I used Adventureworks2022 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms    */
 --product id=322
 select * from Production.Product
 where ProductID=322
